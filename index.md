@@ -54,3 +54,8 @@ Git brunch <brunch name>
 ```
 git commit -m "commit massage"
 ```
+
+## Слияние веток
+```
+git merge <banch name>
+```
