@@ -77,3 +77,11 @@ git rebase <branch to rebase>
 ```
 <Git checkout (name)>
 ```
+
+## Удаление ветки
+
+```
+Для удаления ветки необходимо ввести команду:
+<git branch -d branch to delete>
+```
+
