@@ -103,4 +103,4 @@ git rebase <branch to rebase>
 ```
 git reset <commit hash>
 ```` 
-*****
+qwerty
