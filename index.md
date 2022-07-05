@@ -89,5 +89,12 @@ git rebase <branch to rebase>
 Для удаления ветки необходимо ввести команду:
 <git branch -d branch to delete>
 ```
+  
+ ## Клонирование рпозитория
+  
+  Для клонирования реозитория нужно ввести команду
+  ```
+  git clone <url to repository>
+  ````
 
 
